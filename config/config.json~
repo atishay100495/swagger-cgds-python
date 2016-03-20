@@ -1,8 +1,0 @@
-{
-  "groupId":"org.cbioportal.cgds",
-  "artifactId":"JavaClient",
-  "artifactVersion":"1.0.0",
-  "modelPackage":"org.cbioportal.cgds.client.api",
-  "apiPackage":"org.cbioportal.cgds.client.model",
-  "invokerPackage":"org.cbioportal.cgds.client"
-}

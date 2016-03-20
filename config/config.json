@@ -1,8 +1,8 @@
 {
   "groupId":"org.cbioportal.cgds",
-  "artifactId":"JavaClient",
+  "artifactId":"PythonClient",
   "artifactVersion":"1.0.0",
-  "modelPackage":"org.cbioportal.cgds.client.api",
-  "apiPackage":"org.cbioportal.cgds.client.model",
+  "modelPackage":"org.cbioportal.cgds.client.model",
+  "apiPackage":"org.cbioportal.cgds.client.api",
   "invokerPackage":"org.cbioportal.cgds.client"
 }
